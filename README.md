@@ -27,6 +27,9 @@ Some of the major feature you can find are:
     2. Better code separation between Views and Models
     3. Simplification of the different options one can do, keeping it to what a Git client is
 
+## Installation
+You can download releases from the [release page](https://github.com/francescmm/GitQlient/releases)
+
 ## User Manual
 
 Please, if you have any doubts about how to use it or you just want to know all you can do with GitQlient, take a look to [the user manual in here](https://francescmm.github.io/GitQlient).
